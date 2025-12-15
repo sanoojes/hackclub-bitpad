@@ -2,5 +2,5 @@
   (version 7)
   (lib (name "OPL")(type "KiCad")(uri "${KIPRJMOD}/lib/OPL_Kicad_Library/Seeed Studio XIAO Series Library")(options "")(descr ""))
   (lib (name "Rotary_Encoder")(type "KiCad")(uri "${KIPRJMOD}/lib/Rotary_Encoder.pretty")(options "")(descr ""))
-  (lib (name "MX_Hotswap")(type "KiCad")(uri "${KIPRJMOD}/lib/MX_V2/MX_Hotswap.pretty")(options "")(descr ""))
+  (lib (name "MX_Hotswap")(type "KiCad")(uri "${KIPRJMOD}/lib/MX_Hotswap.pretty")(options "")(descr ""))
 )
