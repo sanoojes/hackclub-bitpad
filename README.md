@@ -6,7 +6,8 @@ Firmware
 
 ## CAD
 
-To be done
+![back_case](images/back_case.png)
+![top_case](images/top_case.png)
 
 ## PCB
 
