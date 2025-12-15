@@ -1,8 +1,7 @@
 # BitPad
 
-A simple, customizable macropad with fully programmable keys, per-key RGB
-lighting, multiple profiles for gaming, programming, editing, and more. uses QMK
-Firmware
+A simple, customizable macropad with hot swapable keys, fully programmable keys, per-key RGB
+lighting, multiple profiles for gaming, programming, editing, and more. uses QMK Firmware
 
 ## CAD
 
@@ -15,7 +14,7 @@ Firmware
 
 ## Firmware
 
-Firmware available at [firmware/](firmware/) firmware will be updated soon.
+Firmware available at [firmware/](firmware/) firmware will be tweaked and updated after i get the materials.
 
 ## BOM (Bill of materials)
 
