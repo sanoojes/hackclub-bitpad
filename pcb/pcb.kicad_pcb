@@ -716,7 +716,6 @@
 			)
 		)
 		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeed Studio XIAO RP2040 v26.step"
-			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -749,6 +748,28 @@
 			)
 			(rotate
 				(xyz -90 0 0)
+			)
+		)
+		(model "${AMZPATH}/3dmodels/seeed-studio-xiao-rp2040/Seeed Studio XIAO RP2040 v26.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/3dmodels/seeed-studio-xiao-rp2040/Seeed Studio XIAO RP2040 v26.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 	)
