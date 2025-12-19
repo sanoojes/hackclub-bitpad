@@ -5,6 +5,7 @@ lighting, multiple profiles for gaming, programming, editing, and more. uses QMK
 
 ## CAD
 
+![top_plate](images/top-plate.png)
 ![back_case](images/back_case.png)
 ![top_case](images/top_case.png)
 
